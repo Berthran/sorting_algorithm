@@ -14,11 +14,15 @@ Measuring an algorithm’s complexity is not a difficult concept to grasp — Al
 ## O(1) aka `constant time`
 *  This means that the algorithm takes the same number of steps to execute regardless of how much data is passed in.
 <img title="Example of an algorithm of O(1) complexity" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*eX2vo735WWU35Sz3usNCzQ.png"/>
+<img title="Plot of O(1) complexity" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*MH3BmdZKRuqHyLNnaI9eRg.png"/>
 
-## O(N) 
-* This is read as "Order of N"
-* Interpreted as an approximation of the duration of the algorithm given N input elements.
-* O(N) describes how many steps an algorithm takes based on the number of elements that it is acted upon.
-## O(n2)
+## O(N) aka `linear time`
+* This means that the algorithm will take as many steps as there are elements of data. 
+* So when an array increases in size by one element, an O(N) algorithm will increase by one step.
+* This is read as "Order of N".
+* An example is an algorithms that traverses an array and print each element.
+<img title="Exaple of an algorithm of O(N) complexity" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*rLwlvwOyBCkioaW9Pbdb1Q.png"/>
+<img title="Plot of O(N) complexity" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*onjErRnvJBpEfFbTdFjw2Q.png"/>
 
-## 
+
+## O($N^2$) 
