@@ -8,6 +8,6 @@ This is a project on understanding the concepts of sorting algorithms and the bi
 
 
 
-## Authors
+## Contributors
 * Daniel Berthran
 * Godswill Utong
