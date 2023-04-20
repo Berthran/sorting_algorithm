@@ -1,6 +1,7 @@
 # Understanding the Big O Notations
 
 **Algorithmic complexity made simple!!**
+
 An algorithm’s performance depends on the number of steps it takes. Computer Scientists have borrowed the term 'Big-O Notataion' from the world of Mathematics to accurately describe an algorithm's effieciency.
 Measuring an algorithm’s complexity is not a difficult concept to grasp — Although this sounds like an oxymoron — it is not!
 
