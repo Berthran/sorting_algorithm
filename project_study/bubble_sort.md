@@ -6,7 +6,7 @@ Summary of bubble sort algorithmic operation
 * Compares elements [A CONDITIONAL STATEMENT]
 * Swap elements [AN OPERATION]
 The terminating condition of the bubble sort algorithm is based on the idea that with each iteration, the largest unsorted number in the array is sorted (i.e it "bubbles" up to the top of the list, hence the name "bubble sort").
-[Bubble sort illustration](https://en.wikipedia.org/wiki/File:Bubble-sort-example-300px.gif)
+<img title="Bubble sort illustration" src="https://en.wikipedia.org/wiki/File:Bubble-sort-example-300px.gif"/>
 
 
 
