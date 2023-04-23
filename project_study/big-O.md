@@ -25,4 +25,15 @@ Measuring an algorithm’s complexity is not a difficult concept to grasp — Al
 <img title="Plot of O(N) complexity" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*onjErRnvJBpEfFbTdFjw2Q.png"/>
 
 
-## O($N^2$) 
+## O($N^2$) aka `quadratic time`
+* This means that the performance of the algorithm is proportional to the square of the size of the input elements. 
+* Algorithms with the O($N^2$) are generally quire slow
+.
+* An example is an algorithm that finds duplicates in an array.
+<img title="Example of an algorithm of O(N²) complexity" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*w14fnGabon9wj5BAazWNbg.png"/>
+<img title="Plot of O(N²) complexity" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*h34O9norWzUHK2hmoRgn5g.png"/>
+* Generally, adding more nested iterations throught the input will increase the algorithm's complexity e.g. if the number of iterations is 3 then its complexity will be O(N³) and so forth.
+
+## O(logN)
+* This describes an algorithm whose number of operations increases by one each time the data is doubled.
+* Logarithmic time complexities usually apply to algorithms that divide problems in half every time.
